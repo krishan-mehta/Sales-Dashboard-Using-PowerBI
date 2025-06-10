@@ -49,5 +49,6 @@ A **donut chart** highlights the **top five products** with the highest **profit
 - **Product & Customer IDs**  
 
 ## 📊 My Dashboard
-**Untitled**  
-Created with **Power BI** and **Excel** | By *Yusuf Satilmis*
+![image](https://github.com/user-attachments/assets/fc9b6040-9f8c-4e31-92fa-0ca99be5a6b0)
+
+Created with **Power BI** and **Excel** | By *Krishan Mehta*
